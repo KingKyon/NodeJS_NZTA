@@ -4,7 +4,6 @@
 // ENTER YOUR LISTENING PORT IN THE TESTPORT VARIBALE BELOW:
 var testport = "443"
 // Dependencies
-require("dotenv").config()
 var express = require("express");
 // app variable
 var app = express();
