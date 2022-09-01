@@ -8,8 +8,8 @@ Please use the /Test URI in order to use GET request. Reponse should return JSON
 
 ## Docker
 The docker file is included if you would like to create a docker image for containerization. Please see the file named "dockerfile. In order to build the image, you will
-obviously need to have Docker Desktop installed and run the following command in Windows CMD: <br><br>
-`docker build -t <dockerfile path> .`
+obviously need to have Docker Desktop installed and run the following command in Windows Terminal session once you have navigated into the application directory: <br><br>
+`docker build -t <imagename> .`
 
 ## Usage
 Feel free to use as and how you wish!
