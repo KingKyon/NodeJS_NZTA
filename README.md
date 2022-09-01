@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" style="width: 8vw; height: 10vh;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" style="width: 6vw; height: 10vh;"/>
 # NodeJS Test API
 This test API is written using Express/NodeJS and for test purposes. This server application listens on server port 443 by default (if using docker, this can be mapped differently using port mapping). The port variable can be edited within the "server.js" file if you wish to adjust the listening port. The server will require Node JS in order to run this file.
 
